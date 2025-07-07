@@ -7,7 +7,7 @@ print(sum)
 
 or
 
-#python code to add any two numbers 
+#python code to add any two numbers
 a=int(input("enter a"))
 b=int(input("enter b"))
 sum=a+b
